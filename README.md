@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendra Kumar</h1>
-<h3 align="center">AWS DevOps Engineer with 2.5 years of experience in designing and implementing Cloud-based solutions. Proficient in deploying and managing CI/CD pipelines, leveraging tools such as Jenkins, Docker, Kubernetes, Ter raform, Ansible, Linux, Git, and AWS Cloud.</h3>
+<h3 align="center">AWS DevOps Engineer with 2.5 years of experience in designing and implementing Cloud-based solutions. Proficient in deploying and managing CI/CD pipelines, leveraging tools such as Jenkins, Docker, Kubernetes, Terraform, Ansible, Linux, Git, and AWS Cloud.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surics47&label=Profile%20views&color=0e75b6&style=flat" alt="surics47" /> </p>
 
@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surics47&show_icons=true&locale=en" alt="surics47" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surics47&" alt="surics47" /></p>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
