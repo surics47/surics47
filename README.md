@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **surics47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fKKogs-xhvlViDoOtWHmeIYPy6d71ww4/view?usp=sharing](https://drive.google.com/file/d/1fKKogs-xhvlViDoOtWHmeIYPy6d71ww4/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fKKogs-xhvlViDoOtWHmeIYPy6d71ww4/view?usp=sharing](https://drive.google.com/file/d/1h-L-9cXE93FocM5nnt8ibHX_TEcf8VM0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
