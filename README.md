@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Surendra Kumar</h1>
-<h3 align="center">AWS DevOps Engineer with 2.5 years of experience in designing and implementing Cloud-based solutions. Proficient in deploying and managing CI/CD pipelines, leveraging tools such as Jenkins, Docker, Kubernetes, Terraform, Ansible, Linux, Git, and AWS Cloud.</h3>
+<h3 align="center">AWS DevOps Engineer with 4+ years of experience in designing and implementing Cloud-based solutions. Proficient in deploying and managing CI/CD pipelines, leveraging tools such as Jenkins, Docker, Kubernetes, Terraform, Ansible, Linux, Git, and AWS Cloud.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surics47&label=Profile%20views&color=0e75b6&style=flat" alt="surics47" /> </p>
 
@@ -26,7 +26,7 @@
 
 | Category | Tools |
 |----------|-------|
-| Cloud Platforms | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-AZURE-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| Cloud Platforms | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/-AZURE-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=google-gcp&logoColor=white) |
 | Containerization | ![Docker](https://img.shields.io/badge/-DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-KUBERNETES-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 | Version Control | ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white) |
 | AWS Core Services | ![EC2](https://img.shields.io/badge/-EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![VPC](https://img.shields.io/badge/-VPC-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![ELB](https://img.shields.io/badge/-ELB-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white) |
